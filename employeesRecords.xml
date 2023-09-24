@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees_record>
+    <employee>
+        <employee_number>36363</employee_number>
+        <full_name>Carla Eliza Villanueva</full_name>
+        <department>HRD</department>
+        <position>HR Manager</position>
+        <years_of_service>8</years_of_service>
+        <salary>80000</salary>
+    </employee>
+    <employee>
+        <employee_number>36364</employee_number>
+        <full_name>Emily Baker</full_name>
+        <department>CIT</department>
+        <position>Software Engineer</position>
+        <years_of_service>5</years_of_service>
+        <salary>90000</salary>
+    </employee>
+    <employee>
+        <employee_number>36365</employee_number>
+        <full_name>Sarah Anderson</full_name>
+        <department>Security</department>
+        <position>Security Officer</position>
+        <years_of_service>7</years_of_service>
+        <salary>50000</salary>
+    </employee>
+    <employee>
+        <employee_number>36366</employee_number>
+        <full_name>Olivia Brown</full_name>
+        <department>HRD</department>
+        <position>HR Assistant</position>
+        <years_of_service>3</years_of_service>
+        <salary>45000</salary>
+    </employee>
+    <employee>
+        <employee_number>36367</employee_number>
+        <full_name>Jennifer Davis</full_name>
+        <department>CIT</department>
+        <position>System Analyst</position>
+        <years_of_service>7</years_of_service>
+        <salary>75000</salary>
+    </employee>
+    <employee>
+        <employee_number>36368</employee_number>
+        <full_name>Grace Lee</full_name>
+        <department>Security</department>
+        <position>Head of Security</position>
+        <years_of_service>10</years_of_service>
+        <salary>80000</salary>
+    </employee>
+    <employee>
+        <employee_number>36369</employee_number>
+        <full_name>Chloe Martinez</full_name>
+        <department>HRD</department>
+        <position>HR Coordinator</position>
+        <years_of_service>4</years_of_service>
+        <salary>40000</salary>
+    </employee>
+    <employee>
+        <employee_number>36370</employee_number>
+        <full_name>Sophia Taylor</full_name>
+        <department>CIT</department>
+        <position>Database Administrator</position>
+        <years_of_service>9</years_of_service>
+        <salary>90000</salary>
+    </employee>
+    <employee>
+        <employee_number>36371</employee_number>
+        <full_name>Emma White</full_name>
+        <department>Security</department>
+        <position>Security Supervisor</position>
+        <years_of_service>9</years_of_service>
+        <salary>80000</salary>
+    </employee>
+    <employee>
+        <employee_number>36372</employee_number>
+        <full_name>Lily Anderson</full_name>
+        <department>HRD</department>
+        <position>HR Specialist</position>
+        <years_of_service>2</years_of_service>
+        <salary>45000</salary>
+    </employee>
+    <employee>
+        <employee_number>36373</employee_number>
+        <full_name>Maya Anderson</full_name>
+        <department>HRD</department>
+        <position>HR Specialist</position>
+        <years_of_service>4</years_of_service>
+        <salary>50000</salary>
+    </employee>
+    <employee>
+        <employee_number>36374</employee_number>
+        <full_name>Mia Hernandez</full_name>
+        <department>Security</department>
+        <position>Security Guard</position>
+        <years_of_service>1</years_of_service>
+        <salary>40000</salary>
+    </employee>
+    <employee>
+        <employee_number>36375</employee_number>
+        <full_name>Ava Turner</full_name>
+        <department>HRD</department>
+        <position>HR Generalist</position>
+        <years_of_service>3</years_of_service>
+        <salary>65000</salary>
+    </employee>
+    <employee>
+        <employee_number>36376</employee_number>
+        <full_name>Isabella Adams</full_name>
+        <department>CIT</department>
+        <position>Software Developer</position>
+        <years_of_service>4</years_of_service>
+        <salary>75000</salary>
+    </employee>
+    <employee>
+        <employee_number>36377</employee_number>
+        <full_name>Sophia Garcia</full_name>
+        <department>Security</department>
+        <position>Security Officer</position>
+        <years_of_service>4</years_of_service>
+        <salary>75000</salary>
+    </employee>
+    <employee>
+        <employee_number>36378</employee_number>
+        <full_name>Mia Wilson</full_name>
+        <department>HRD</department>
+        <position>HR Assistant</position>
+        <years_of_service>6</years_of_service>
+        <salary>55000</salary>
+    </employee>
+    <employee>
+        <employee_number>36379</employee_number>
+        <full_name>Grace Lewis</full_name>
+        <department>CIT</department>
+        <position>Systems Administrator</position>
+        <years_of_service>9</years_of_service>
+        <salary>85000</salary>
+    </employee>
+    <employee>
+        <employee_number>36380</employee_number>
+        <full_name>Lily Moore</full_name>
+        <department>Security</department>
+        <position>Security Supervisor</position>
+        <years_of_service>7</years_of_service>
+        <salary>66000</salary>
+    </employee>
+    <employee>
+        <employee_number>36381</employee_number>
+        <full_name> Emma Hall</full_name>
+        <department>HRD</department>
+        <position>HR Coordinator</position>
+        <years_of_service>7</years_of_service>
+        <salary>80000</salary>
+    </employee>
+    <employee>
+        <employee_number>36382</employee_number>
+        <full_name>Chloe Ning</full_name>
+        <department>CIT</department>
+        <position>IT Manager</position>
+        <years_of_service>8</years_of_service>
+        <salary>90000</salary>
+    </employee>
+</employees_record>
+
+
+
+
+
+
+
+
